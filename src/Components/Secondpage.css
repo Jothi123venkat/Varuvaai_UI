@@ -1,0 +1,19 @@
+/* Common styles for .deal */
+.deal {
+  background: linear-gradient(0deg, rgba(47, 44, 44, 0.419), rgba(67, 67, 67, 0.458)), url(../Assets/deal1.jpg.webp);
+  height: 40vh;
+  background-size: cover;
+  background-position: center;
+  margin: 70px 20px 40px 20px;
+  transition: background-color 0.3s; /* Adding a smooth transition effect */
+}
+
+.deal:hover {
+  background-color: blue;
+  transition: all 300ms linear 0s !important; /* Background turns blue on hover */
+}
+
+
+  
+  
+ 

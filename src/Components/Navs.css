@@ -1,0 +1,65 @@
+
+  
+  a {
+    margin-left: 25px;
+    text-decoration:none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+svg {
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+svg:hover {
+    fill: blue; 
+  }
+  
+.dropdown-item {
+    display: block;
+    width: 100%;
+    /* padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x); */
+    clear: both;
+    font-weight: 400;
+    color: var(--bs-dropdown-link-color);
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    border-radius: var(--bs-dropdown-item-border-radius,0);
+}
+
+.dropdown-item {
+    display: block;
+    /* width: 100%; */
+    padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);
+    /* clear: both; */
+    /* font-weight: 400; */
+    /* color: var(--bs-dropdown-link-color); */
+    /* text-align: center; */
+    text-decoration: none;
+    white-space: nowrap;
+    /* background-color: transparent; */
+    border: 0;
+    border-radius: var(--bs-dropdown-item-border-radius,0);
+}
+
+.DropDown:hover {
+    background-color: #007bff;
+    color: aliceblue;
+}
+
+.Button:hover{
+   color: blue;
+}
+

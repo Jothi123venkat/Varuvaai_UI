@@ -1,0 +1,7 @@
+.shopb{
+    background: linear-gradient(0deg, rgba(47, 44, 44, 0.419), rgba(67, 67, 67, 0.458)), url(/src/Assets/banner-bg.jpg.webp) no-repeat center top ;
+    height: 50vh;
+    background-size:cover;
+    /* background-position: center; */
+}
+
